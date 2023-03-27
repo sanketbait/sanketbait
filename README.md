@@ -6,8 +6,8 @@
 <img align="right" alt="code" height="200" width="200" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif">
 
 - 🌱 I’m currently learning **Data Analyst and Machine Learning**
-- 💞️ I’m looking to collaborate on all topics related to  Data Science, Machine Learning and Artificial Intellegence.
-- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
+-  I’m looking to collaborate on all topics related to  Data Science, Machine Learning and Artificial Intellegence.
+-  I’m interested in Data Science, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently mastering Data Analyst | Machine Learning | Python | MySQL | R | Tableau |Power BI | Advance Excel + MIS In Excel
 - 🌱 I Always ready to learning as a new process and mostly about new things...
 - 📫 You can reach me on my email id sankesanbait@gmail.com
